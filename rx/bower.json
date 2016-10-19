@@ -1,0 +1,22 @@
+{
+  "name": "rx",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "enixdark <cqshinn92@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/enixdark/FRP_in_js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "es6-shim": "^0.35.1"
+  }
+}
